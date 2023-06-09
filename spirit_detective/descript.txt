@@ -22,9 +22,9 @@ number.xr,-66
 number.y,-68
 
 sstpmarker.x,78
-sstpmarker.y,56
+sstpmarker.y,54
 
-sstpmessage.x,60
+sstpmessage.x,57
 sstpmessage.y,-78
 
 arrow0.x,81
@@ -35,12 +35,12 @@ arrow1.y,-56
 communicatebox.x,16
 
 onlinemarker.x,87
-onlinemarker.y,56
+onlinemarker.y,54
 onlinemarker.interval,250
 
-validrect.left,60
+validrect.left,57
 validrect.top,60
 validrect.right,-60
 validrect.bottom,-60
 
-wordwrappoint.x,-24
+wordwrappoint.x,-27
