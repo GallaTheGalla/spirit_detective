@@ -17,6 +17,18 @@ font.height,10
 anchor.font.color.r,163
 anchor.font.color.g,0
 anchor.font.color.b,255
+anchor.pen.color.r,163
+anchor.pen.color.g,0
+anchor.pen.color.b,255
+
+cursor.blendmethod,none
+cursor.style,underline
+cursor.font.color.r,163
+cursor.font.color.g,0
+cursor.font.color.b,255
+cursor.pen.color.r,163
+cursor.pen.color.g,0
+cursor.pen.color.b,255
 
 number.xr,-66
 number.y,-68
