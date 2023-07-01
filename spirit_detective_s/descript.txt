@@ -1,6 +1,6 @@
 charset,UTF-8
 type,balloon
-name,Spirit Detective
+name,Spirit Detective S
 
 craftman,Galla
 craftmanw,Galla
