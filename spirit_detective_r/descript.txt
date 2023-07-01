@@ -5,7 +5,7 @@ name,Spirit Detective
 craftman,Galla
 craftmanw,Galla
 craftmanurl,https://GallaTheGalla.github.io/gtg-ghosts/
-homeurl,https://raw.githubusercontent.com/GallaTheGalla/spirit_detective/main/spirit_detective/
+homeurl,https://raw.githubusercontent.com/GallaTheGalla/spirit_detective/main/spirit_detective_r/
 
 use_self_alpha,1
 use_input_alpha,1
